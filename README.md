@@ -1,4 +1,4 @@
-# Bike Sharing Analysis Project
+# 🚲 Bike Sharing Analysis Project 🚲
 
 ## Setup environment
 ```
